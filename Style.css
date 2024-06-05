@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(50, 153, 237);
+    
+}
+.abc {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.para1 {
+    width: 25%;
+    height: 500px;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    display: inline,block;
+    margin-right: 5%;
+    margin-left: 8%;
+}
+.para2 {
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 10px;
+  
+}
+.para3 {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(68, 162, 255);
+    color: white;
+    border-radius: 20px;
+    border:none ;
+    padding: 2px 8px 2px 8px  ;
+}
+.para4 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+}
+#ppp {
+    margin-bottom: 40px;
+}
+h2 {
+    line-height: 10px;
+}
+.para5 {
+    width: 15%;
+    margin-left: 10px;
+    border-radius: 120%;
+}
+.tera1
+{
+    width: 25%;
+    height: 500px;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin-right: 5%;
+
+}
+
+.tera2 {
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 10px;
+}
+.tera3 {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 189, 59);
+    color: white;
+    border-radius: 20px;
+    border:none ;
+    padding: 2px 8px 2px 8px  ;
+}
+
+.tera4 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.tera5 {
+    width: 15%;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 50%;
+}
+.ab1  {
+    width: 25%;
+    height: 500px;
+    /* border: 1px solid; */
+    border-radius: 10px;
+    background-color: white;
+}
+.ab2 {
+    width: 100%;
+    height: 214px;
+    border-top-right-radius: 10px;
+    border-top-left-radius:10px ;
+    margin-bottom: 10px;
+}
+.ab3 {
+border-radius: 20px;
+border: none;
+margin-left:10px ;
+background-color: rgb(254, 11, 11);
+color: white;
+padding: 2px 10px 2px 10px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.ab4 {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ab5 {
+    width: 20%;
+    border-radius: 50%;
+    /* height: 40px; */
+    margin-left: 10px;
+
+}
+.opt {
+    display: inline;
+    margin-bottom: 10px;
+}
+.ptv {
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
